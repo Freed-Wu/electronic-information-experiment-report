@@ -1,0 +1,5 @@
+latexmk 编译。
+需要python安装pygmentize
+需要latex安装boxie
+需要latexmk 使能-shell-escape, -xelatex
+
